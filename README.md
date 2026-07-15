@@ -15,3 +15,9 @@ Here, you can find some of the projects I've done to improve my data scientist s
 ## 🛠️ RAG (TBD) 
 - (TBD)
 
+## My skills
+- Python
+- SQL
+- https://www.mathworks.com/
+- 
+
