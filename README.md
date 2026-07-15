@@ -1,16 +1,19 @@
 ## Hi there 👋
 
 <!-
-ancisscus/Francisscus** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am Francesco. 
 
-Here are some ideas to get you started:
+🤓 I am passionate about Machine Learining and Time Series Forecasting, but in the last year I am deepening study of LLMs
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+Here, you can find some of the projects I've done to improve my data scientist skills
+
+### Forecasting Unemployment rate
+- The aim is predicting Italian unemployment rate with ISTAT data and Time Series forecasting techniques. 
+
+## Rent price predict
+- I built a machine learning project that is capable of predicting the ideal rent price in different Italian cities based on real estate variables
+
+## RAG (TBD)
+- (TBD)
+
 ->
