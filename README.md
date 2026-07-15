@@ -9,7 +9,7 @@ Here, you can find some of the projects I've done to improve my data scientist s
 ### 📈 Forecasting Unemployment rate
 -  The aim is predicting Italian unemployment rate with ISTAT data and Time Series forecasting techniques. 
 
-## 🏠 Rent price predict 
+## 🏠 Rent price predictor
 - I built a machine learning project that is capable of predicting the ideal rent price in different Italian cities based on real estate variables
 
 ## 🛠️ RAG (TBD) 
