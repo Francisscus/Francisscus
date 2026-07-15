@@ -18,6 +18,12 @@ Here, you can find some of the projects I've done to improve my data scientist s
 ## My skills
 - Python
 - SQL
-- https://www.mathworks.com/
+- Sklearn
+- Statsmodels
+- pandas
+- numpy
+- matplotlib
+- seaborn
+- plotly
 - 
 
