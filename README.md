@@ -11,7 +11,7 @@ Here, you can find some of the projects I've done to improve my data scientist s
 - I built a machine learning project that is capable of predicting the ideal rent price in different Italian cities based on real estate variables
 
 
-### 📈 Forecasting Unemployment rate (in progress)
+## 📈 Forecasting Unemployment rate (in progress)
 -  The aim is predicting Italian unemployment rate with ISTAT data and Time Series forecasting techniques. 
 
 
